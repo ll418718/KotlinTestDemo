@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinTestDemo</string>
+    <string name="data_parse_error">数据解析错误</string>
+    <string name="auth_check_error">身份验证异常</string>
+    <string name="business_error">业务异常</string>
+    <string name="no_connect_error">网络无连接</string>
+    <string name="no_data_error">数据为空</string>
+    <string name="other_error">其他异常</string>
+</resources>
